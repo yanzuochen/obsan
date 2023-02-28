@@ -1,0 +1,13 @@
+Session.vim
+.*
+!.gitignore
+!.dvc
+!dvc.lock
+/onnx-export/
+/quantized/
+/results/
+/eval/results/
+wandb/
+*.pt
+*.pth
+/built
